@@ -131,9 +131,21 @@ if (!file_exists($configFile)) {
 }
 
 $config = require $configFile;
+
+$user = $config['smtp_user'] ?? $config['SMTP_USER'] ?? '';
+$pass = $config['smtp_pass'] ?? $config['SMTP_PASS'] ?? '';
+
+if (empty($user) || empty($pass) || $user === 'tu-email@gmail.com' || strpos($pass, 'tu-contrasena') !== false) {
+    echo json_encode([
+        'success' => false,
+        'message' => 'Para enviar consultas por correo, configurá tus credenciales SMTP reales en php/config.php. Podés contactarnos de inmediato vía WhatsApp.'
+    ]);
+    exit;
+}
+
 $to = $config['recipient'] ?? $config['SMTP_TO'] ?? $config['smtp_to'] ?? '';
 if (empty($to)) {
-    $to = $config['smtp_user'] ?? $config['SMTP_USER'] ?? 'contacto@teamoteo.com';
+    $to = 'hola@teamoteo.com.ar';
 }
 
 $subjectHeader = "Teamoteo Contacto: " . $servicio;
