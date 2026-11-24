@@ -1,32 +1,29 @@
-# Teamoteo - El equipo digital de los pequeños emprendedores
+# Teamoteo - El equipo digital para negocios que quieren crecer
 
-> Teamoteo es una agencia de servicios digitales y capacitación en Argentina dedicada a pequeños emprendedores, comercios y PyMEs. Soluciones digitales simples, accesibles y a medida.
+> Teamoteo es una dupla digital en Argentina que se ocupa de páginas web, catálogos, marca, redes sociales y campañas en Meta y Google Ads para negocios que ya funcionan y quieren dar el siguiente paso.
 
 - Website: https://teamoteo.com.ar/
 - Ubicación: Argentina
-- Tipo de Negocio: Servicios Digitales, Desarrollo Web, Diseño de Marca y Capacitación
+- Tipo de Negocio: Servicios Digitales, Desarrollo Web, Identidad Visual, Redes Sociales y Publicidad Digital
 
 ## Servicios Principales
 
-### 1. Tu negocio en internet (Desarrollo Web)
-- Creación de páginas web, landing pages y catálogos digitales adaptados a dispositivos móviles.
-- Integración directa con WhatsApp para recepción de consultas y ventas.
-- Formularios de contacto y optimización para motores de búsqueda (SEO).
+### 1. Webs y catálogos
+- Páginas web y landing pages a medida.
+- Tiendas online y catálogos digitales.
+- Integración con WhatsApp y formularios de contacto.
+- Automatizaciones y agentes con IA para consultas frecuentes.
+- Diseño adaptable a celulares y optimización básica para buscadores (SEO).
 
-### 2. Identidad visual y redes (Branding y Diseño)
-- Diseño de logotipos e identidad visual de marca.
-- Paleta de colores, tipografías corporativas y recursos gráficos personalizados.
-- Plantillas editables para redes sociales (Instagram, Facebook).
+### 2. Identidad visual y redes
+- Pack de marca: logotipo, identidad visual, paleta de colores, tipografías, plantillas para redes sociales y recursos gráficos personalizados.
+- Gestión mensual de redes sociales: planificación de contenido, diseño de piezas y publicación.
 
-### 3. Asistentes virtuales con Inteligencia Artificial (IA)
-- Asistentes virtuales personalizados entrenados con información del negocio.
-- Automatización de respuestas para WhatsApp Business.
-- Automatización de presupuestos, turnos y consultas frecuentes.
-
-### 4. Talleres y Mentorías
-- Capacitación práctica en IA para emprendedores sin conocimientos de programación.
-- Talleres de Canva y creación de contenido para redes sociales.
-- Configuración y optimización de WhatsApp Business con MercadoPago.
+### 3. Campañas en Meta y Google
+- Estrategia publicitaria según los objetivos del negocio.
+- Configuración y gestión continua de campañas en Meta Ads, Google Ads o ambas.
+- Informes claros (mensuales o semanales) con próximos pasos concretos.
 
 ## Contacto
 - Sitio Web: https://teamoteo.com.ar/
+- Email: hola@teamoteo.com.ar
